@@ -1,0 +1,6 @@
+framework module Pods_GopherCache_Tests {
+  umbrella header "Pods-GopherCache_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

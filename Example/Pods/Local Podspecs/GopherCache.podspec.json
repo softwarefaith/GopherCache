@@ -1,0 +1,22 @@
+{
+  "name": "GopherCache",
+  "version": "0.1.0",
+  "summary": "A short description of GopherCache.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/softwarefaith@126.com/GopherCache",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "softwarefaith@126.com": "jie.cai@mljr.com"
+  },
+  "source": {
+    "git": "https://github.com/softwarefaith@126.com/GopherCache.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GopherCache/Classes/**/*"
+}
